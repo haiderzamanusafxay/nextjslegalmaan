@@ -1,4 +1,4 @@
-import yammanpic from "../images/legalmaan yamman.png";
+import yammanpic from "../images/yamman legalmaan.png";
 import Image from "next/image";
 export const HomeHero = () => {
   return (
@@ -36,7 +36,7 @@ export const HomeHero = () => {
               </div>
             </form>
           </div>
-          <div className="relative lg:col-span-5 lg:-mr-8 xl:col-span-6">
+          <div className="relative lg:col-span-5 lg:-mr-8 lg:col-span-6">
             <Image
               className="aspect-[4/2] object-cover lg:aspect-[4/3] lg:h-[700px] lg:w-[500px] xl:aspect-[16/9]"
               src={yammanpic}
