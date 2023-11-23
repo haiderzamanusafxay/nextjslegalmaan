@@ -1,9 +1,7 @@
-import React from "react";
-
 const About = () => {
   return (
     <>
-      <section className="pt-10 overflow-hidden bg-gray-50 md:pt-0 sm:pt-16 2xl:pt-16">
+      <section className="pt-10 overflow-hidden md:pt-0 sm:pt-16 2xl:pt-16">
         <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
           <div className="grid items-center grid-cols-1 md:grid-cols-2">
             <div>
@@ -44,8 +42,7 @@ const About = () => {
 
               <img
                 className="relative w-full xl:max-w-lg xl:mx-auto 2xl:origin-bottom 2xl:scale-110"
-                src="https://cdn.rareblocks.xyz/collection/celebration/images/team/1/business-woman.png"
-                alt=""
+                src={`https://nextjslegalmaan.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flegalmaan%20yamman.e31c57ab.png&w=750&q=75`}
               />
             </div>
           </div>
