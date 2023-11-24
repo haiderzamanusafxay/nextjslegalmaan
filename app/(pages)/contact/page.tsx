@@ -1,3 +1,11 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Contact- Legalmaan",
+  description:
+    "I am a Legal Writer who focuses on solving problems. Legal Contract & Agreement - Article - Law Essay - Trademark & Patent, and any other Legal Document drafting. | Legalmaan",
+};
+
 const Contact = () => {
   return (
     <form action="https://fabform.io/f/{form-id}" method="post">
@@ -8,9 +16,7 @@ const Contact = () => {
               width="100%"
               height="100%"
               className="absolute inset-0"
-              
               title="map"
-             
               src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1871.1559167492012!2d72.34864329138344!3d34.25031513044211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e1!3m2!1sen!2s!4v1700566172350!5m2!1sen!2s"
               style={{ filter: "grayscale(1) contrast(1.2) opacity(0.4)" }}
             ></iframe>
