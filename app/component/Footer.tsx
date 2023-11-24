@@ -22,24 +22,36 @@ export const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/facebook-new.png" />
+          <img
+            src="https://img.icons8.com/fluent/30/000000/facebook-new.png"
+            alt="facebook icon"
+          />
         </a>
         <a
           href="https://linkedin.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/linkedin-2.png" />
+          <img
+            src="https://img.icons8.com/fluent/30/000000/linkedin-2.png"
+            alt="linkedin icon"
+          />
         </a>
         <a
           href="https://instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" />
+          <img
+            src="https://img.icons8.com/fluent/30/000000/instagram-new.png"
+            alt="instagram icon"
+          />
         </a>
         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.icons8.com/fluent/30/000000/twitter.png" />
+          <img
+            src="https://img.icons8.com/fluent/30/000000/twitter.png"
+            alt="twitter icon"
+          />
         </a>
       </div>
       <p className="text-center text-gray-700 font-medium">

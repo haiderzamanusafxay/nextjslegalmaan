@@ -1,4 +1,3 @@
-"use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 export const Nav = () => {
@@ -15,6 +14,8 @@ export const Nav = () => {
               src="https://legalmaan.com/wp-content/uploads/2023/06/attorney-70x70.png"
               className="h-8"
               alt="Flowbite Logo"
+              width={"70px"}
+              height={"70px"}
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
               LegalMaan
