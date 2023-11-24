@@ -1,10 +1,11 @@
+'use client'
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 export const Nav = () => {
   const pathname = usePathname();
   return (
     <>
-      <nav className="bg-white dark:bg-gray-900 w-full z-20 top-0 start-0  border-gray-200 dark:border-gray-600">
+      <nav className="bg-white fixed dark:bg-gray-900 w-full z-20 top-0 start-0  border-gray-200 dark:border-gray-600">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <Link
             href="/"
@@ -14,8 +15,7 @@ export const Nav = () => {
               src="https://legalmaan.com/wp-content/uploads/2023/06/attorney-70x70.png"
               className="h-8"
               alt="Flowbite Logo"
-              width={"70px"}
-              height={"70px"}
+
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
               LegalMaan

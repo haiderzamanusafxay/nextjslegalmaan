@@ -1,6 +1,5 @@
 const Services = () => {
   return (
-    <section className="flex items-center justify-center">
       <div className="px-4 py-20 mx-auto max-w-7xl">
         <div className="max-w-xl mx-auto">
           <div className="text-center ">
@@ -102,7 +101,6 @@ const Services = () => {
           </div>
         </div>
       </div>
-    </section>
   );
 };
 
