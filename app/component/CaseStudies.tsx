@@ -1,9 +1,8 @@
 const CaseStudies = () => {
   return (
-    <div className="bg-white dark:bg-gray-800 h-full py-6 sm:py-8 lg:py-12">
-      <h1 className="text-5xl font-bold dark:text-white text-center my-8">
-        {" "}
-        My <span className="text-blue-500"> Portfolio</span>{" "}
+    <div className="bg-white  h-full py-6 sm:py-8 lg:py-12">
+      <h1 className="text-6xl md:text-7xl font-bold mb-5 text-gray-600 text-center my-10">
+        My Portfolio
       </h1>
       <div className="mx-auto max-w-screen-xl px-4 md:px-8">
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8">

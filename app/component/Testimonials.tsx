@@ -7,12 +7,9 @@ const Testimonials = () => {
           <div className="w-full max-w-6xl mx-auto">
             <div className="text-center max-w-xl mx-auto">
               <h1 className="text-6xl md:text-7xl font-bold mb-5 text-gray-600">
-                What people <br />
-                are saying.
+                What my clients <br /> say about me?
               </h1>
-              <h3 className="text-xl mb-5 font-light">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              </h3>
+
               <div className="text-center mb-10">
                 <span className="inline-block w-1 h-1 rounded-full bg-indigo-500 ml-1"></span>
                 <span className="inline-block w-3 h-1 rounded-full bg-indigo-500 ml-1"></span>
@@ -25,12 +22,9 @@ const Testimonials = () => {
               <div className="px-3 md:w-1/3">
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=1" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
-                        Kenzie Edgar.
+                        Maxio
                       </h6>
                     </div>
                   </div>
@@ -39,10 +33,8 @@ const Testimonials = () => {
                       <span className="text-lg leading-none italic font-bold text-gray-400 mr-1">
                         "
                       </span>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Quos sunt ratione dolor exercitationem minima quas itaque
-                      saepe quasi architecto vel! Accusantium, vero sint
-                      recusandae cum tempora nemo commodi soluta deleniti.
+                      "Got what was required. Recommended for legal agreement
+                      and contract law."
                       <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">
                         "
                       </span>
@@ -51,12 +43,9 @@ const Testimonials = () => {
                 </div>
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=2" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
-                        Stevie Tifft.
+                        Ehaab
                       </h6>
                     </div>
                   </div>
@@ -65,9 +54,9 @@ const Testimonials = () => {
                       <span className="text-lg leading-none italic font-bold text-gray-400 mr-1">
                         "
                       </span>
-                      Lorem ipsum, dolor sit amet, consectetur adipisicing elit.
-                      Dolore quod necessitatibus, labore sapiente, est,
-                      dignissimos ullam error ipsam sint quam tempora vel.
+                      "Thanks Yamman for providing quality of work as per
+                      requirements and on time. Also, he is excellent in
+                      communication."
                       <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">
                         "
                       </span>
@@ -78,12 +67,9 @@ const Testimonials = () => {
               <div className="px-3 md:w-1/3">
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=3" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
-                        Tommie Ewart.
+                        Jennifer
                       </h6>
                     </div>
                   </div>
@@ -92,9 +78,11 @@ const Testimonials = () => {
                       <span className="text-lg leading-none italic font-bold text-gray-400 mr-1">
                         "
                       </span>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Vitae, obcaecati ullam excepturi dicta error deleniti
-                      sequi.
+                      "Yamman is very easy to work with, he communicated very
+                      well with me and he delivered exactly what I asked. Yamman
+                      is extremely supportive. After the delivery he scheduled a
+                      call with me to explain the motion and asked me if
+                      anything should be changed or added."
                       <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">
                         "
                       </span>
@@ -103,12 +91,9 @@ const Testimonials = () => {
                 </div>
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=4" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
-                        Charlie Howse.
+                        Mubassir
                       </h6>
                     </div>
                   </div>
@@ -117,11 +102,9 @@ const Testimonials = () => {
                       <span className="text-lg leading-none italic font-bold text-gray-400 mr-1">
                         "
                       </span>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Architecto inventore voluptatum nostrum atque, corrupti,
-                      vitae esse id accusamus dignissimos neque reprehenderit
-                      natus, hic sequi itaque dicta nisi voluptatem! Culpa,
-                      iusto.
+                      "Working with Yamman is always a pleasure. As the
+                      communication and work are on point. Will definitely
+                      recommend him."
                       <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">
                         "
                       </span>
@@ -132,12 +115,9 @@ const Testimonials = () => {
               <div className="px-3 md:w-1/3">
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=5" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
-                        Nevada Herbertson.
+                        Rawanah
                       </h6>
                     </div>
                   </div>
@@ -146,11 +126,8 @@ const Testimonials = () => {
                       <span className="text-lg leading-none italic font-bold text-gray-400 mr-1">
                         "
                       </span>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Nobis, voluptatem porro obcaecati dicta, quibusdam sunt
-                      ipsum, laboriosam nostrum facere exercitationem pariatur
-                      deserunt tempora molestiae assumenda nesciunt alias eius?
-                      Illo, autem!
+                      "Was very impressed by the quality of the work. Yamman
+                      knows what he's doing, I would definitely recommend him."
                       <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">
                         "
                       </span>
@@ -159,9 +136,6 @@ const Testimonials = () => {
                 </div>
                 <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                   <div className="w-full flex mb-4 items-center">
-                    <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                      <img src="https://i.pravatar.cc/100?img=6" alt="" />
-                    </div>
                     <div className="flex-grow pl-3">
                       <h6 className="font-bold text-sm uppercase text-gray-600">
                         Kris Stanton.

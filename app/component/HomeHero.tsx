@@ -25,6 +25,7 @@ export const HomeHero = () => {
             className="object-cover object-center rounded"
             alt="yammans image"
             src={yammanpic}
+            priority={true}
           />
         </div>
       </div>
